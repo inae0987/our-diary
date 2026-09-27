@@ -13,11 +13,6 @@
           "icon": "🚶"
         },
         {
-          "key": "delivery",
-          "label": "배달 주문",
-          "icon": "🛵"
-        },
-        {
           "key": "그림-연습",
           "label": "그림 연습",
           "icon": "📝"
