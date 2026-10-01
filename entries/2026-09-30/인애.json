@@ -9,12 +9,12 @@
   "images": [],
   "checklist": {
     "sleepHours": 6,
-    "outing": true,
-    "그림-연습": false,
+    "outing": false,
+    "그림-연습": true,
     "수능-준비": true
   },
   "reactions": {},
   "comments": [],
   "createdAt": "2026-09-30T13:47:41.667Z",
-  "updatedAt": "2026-10-01T14:32:28.642Z"
+  "updatedAt": "2026-10-01T14:32:48.403Z"
 }
