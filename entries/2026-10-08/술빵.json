@@ -14,8 +14,12 @@
     "cleaning": false,
     "delivery": false
   },
-  "reactions": {},
+  "reactions": {
+    "❤️": [
+      "인애"
+    ]
+  },
   "comments": [],
   "createdAt": "2026-10-08T15:31:58.837Z",
-  "updatedAt": "2026-10-08T15:32:03.871Z"
+  "updatedAt": "2026-10-09T04:28:36.066Z"
 }
