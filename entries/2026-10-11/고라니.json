@@ -15,8 +15,12 @@
     "9시-씻기": true,
     "피부-관리": true
   },
-  "reactions": {},
+  "reactions": {
+    "❤️": [
+      "인애"
+    ]
+  },
   "comments": [],
   "createdAt": "2026-10-11T15:28:09.618Z",
-  "updatedAt": "2026-10-11T15:28:10.552Z"
+  "updatedAt": "2026-10-11T15:33:03.657Z"
 }
